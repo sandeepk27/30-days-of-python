@@ -1,5 +1,5 @@
 int=5
-float=1.7
+float=2.7
 complex=3j
 X=40
 Y=20
