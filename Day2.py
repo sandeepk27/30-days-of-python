@@ -2,7 +2,7 @@
 name='sid'
 a='variable is created and we assign a value to it.'
 num=type(a)
-Num=type(37)
+Num=type(34)
 b,c,d='data type','var','int'
 p=['this is the 2nd day of 100 days coding challenge','type can change after they have set' ]
 x,y=p
