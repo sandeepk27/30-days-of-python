@@ -1,4 +1,4 @@
-s1={'sid','Nat','jessy','stella'}
+s1={'stephen','Nat','jessy','stella'}
 s2={'pepper','Tony','Nat'}
 
 print(type(s1))
