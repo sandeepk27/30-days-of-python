@@ -1,6 +1,6 @@
 a=37
 b=17
-i=1
+i=5
 
 if a>10:
     print("a is greater than b")
