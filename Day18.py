@@ -13,6 +13,7 @@ A={
     "city":"Hyderabad",
     "status":"Single",
     "pets":"None",
+    "country":"India",
 }
 
 B=json.dumps(A)
