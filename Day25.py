@@ -1,7 +1,7 @@
 print("Welcome to pizza deliveries!")
 size=input("Select the size you want to order? S, M, or L")
-extra_pepper=input("Do you want pepperoni? Y or N")
-cheese=input("Do you want extra cheese? Y or N")
+extra_pepper=input("Do you want pepperoni? Yes or N0")
+cheese=input("Do you want extra cheese? Yes or No")
 
 total_bill=0
 if size =="S":
@@ -22,18 +22,6 @@ if cheese=="Y":
     total_bill +=1
 
 print(f"Your final bill is ${total_bill}")
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
